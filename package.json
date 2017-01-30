@@ -1,0 +1,46 @@
+{
+  "name": "iManage",
+  "version": "0.0.1",
+  "description": "iManage project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://10.28.11.39/var/www/html/iManage"
+  },
+  "author": "Roxana Zdurcea",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-less": "^3.1.0",
+    "gulp-purifycss": "^0.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7",
+    "pump": "^1.0.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.0",
+    "gulp-purifycss": "^0.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.8",
+    "gulp-uglify": "^2.0.0",
+    "minimatch": "^3.0.3",
+    "path": "^0.12.7",
+    "pump": "^1.0.2"
+  }
+}
