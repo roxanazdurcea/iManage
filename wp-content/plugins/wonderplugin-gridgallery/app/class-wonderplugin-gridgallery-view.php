@@ -82,7 +82,7 @@ class WonderPlugin_Gridgallery_View {
 	
 	function show_contact() {
 		?>
-		<p>Technical support is available for Commercial Version users at support@wonderplugin.com. Please include your license information, WordPress version, link to your gallery, all related error messages in your email.</p> 
+		<p>Technical support is available for Commercial Version users at support@wonderplugin.com. Please include your license information, WordPress version, link to your gallery, all related error messages in your email.</p>
 		<?php
 	}
 	

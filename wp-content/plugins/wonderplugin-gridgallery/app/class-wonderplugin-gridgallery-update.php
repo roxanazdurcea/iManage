@@ -15,7 +15,7 @@ class WonderPlugin_Gridgallery_Update {
 		$this->version = WONDERPLUGIN_GRIDGALLERY_PLUGIN_VERSION;
 		$this->wp_version = $wp_version;
 		$this->domain = $_SERVER['SERVER_NAME'];
-		$this->api_url = 'https://www.wonderplugin.com/update-check.php';
+//		$this->api_url = 'https://www.wonderplugin.com/update-check.php';
 		$this->update_response = null;
 		
 		$settings = $this->controller->get_settings();
@@ -61,7 +61,7 @@ class WonderPlugin_Gridgallery_Update {
 				{
 					if (WONDERPLUGIN_GRIDGALLERY_VERSION_TYPE == 'F')
 					{
-						echo '<div class="error notice is-dismissible"><p><strong>' . $info->name . '</strong>: To update the plugin in WordPress backend, please <a href="https://www.wonderplugin.com/order/?product=gridgallery" target="_blank">upgrade to a commercial license</a>, otherwise, you will get the <strong>Update package not available</strong> error.</div>';				
+						echo '<div class="error notice is-dismissible"><p><strong>' . $info->name . '</strong>: To update the plugin in WordPress backend, please <a href="https://www.wonderplugin.com/order/?product=gridgallery" target="_blank">upgrade to a commercial license</a>, otherwise, you will get the <strong>Update package not available</strong> error.</div>';
 					}
 					else
 					{
