@@ -18,14 +18,12 @@
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
+
+
     <link rel='stylesheet' href='wp-includes/css/bootstrap.min.css' type='text/css' media='all'/>
-    <script type='text/javascript' src='wp-includes/js/jquery/bootstrap.min.js'></script>
+<!--    <script type='text/javascript' src='wp-includes/js/jquery/bootstrap.min.js'></script>-->
     <link href="https://fonts.googleapis.com/css?family=Bree+Serif:400" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400i,700,700i" rel="stylesheet">
-
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
 
 
 

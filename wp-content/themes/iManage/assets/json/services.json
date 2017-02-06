@@ -1,0 +1,122 @@
+[
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-02.png",
+    "number": "01",
+    "title": "Organization Development<br />& Strategic Planning",
+    "short_description": "Increase your organizational effectiveness and organizational health, through planned interventions in the organization’s processes and operations.",
+    "long_description": {
+        "objective" : "To increase the organizational effectiveness and organizational health, through planned interventions in the organization’s processes or operations.",
+        "scope": "Corporate, Brand, Structure and people.",
+        "methodology": "State the company’s mission, vision and values.Define and formulate the organization Strategy. Align a Balanced Scorecard. Draft the organization’s KPAs as a main step to define the structure and job descriptions and KPIs. Having every individual understanding clearly his job description. Communicating strategic objectives to each department and having the department’s head",
+        "deliverables": "Mission and Vision Statements, company’s values. <br />Clear Strategy. <br />Balanced scorecard aligned to the strategy. <br />Company’s structure, KPAs, job descriptions and KPIs. <br />Performance management system linked to employees rewards, promotions and raises. <br />Basic processes and workflows."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-03.png",
+    "number": "02",
+    "title": "Feasibility<br />Study",
+    "short_description": "Have a well designed study and clear financial projection that includes: Project Capital Budget, Sales Projection, Labor Cost, Expenses Assumptions...",
+    "long_description": {
+      "objective" : "To have a well designed study that will increase visibility on your business financial and operational structure and budget.",
+      "scope": "Market analysis. <br />Location cost. <br />Restaurant seating. <br />Menu type and average check. <br />Related business activities.",
+      "methodology": "Defining and approving the study structure. <br />Identify the pre-opening costs. <br />Set the company organizational structure and pay scale. <br />Propose the average expected sales by revenue center. <br />Identify running expenses, fixed and variable in% of sales. <br />Present the first draft.",
+      "deliverables": "Clear financial projection that includes: Project capital budget, sales projection, labor cost, expenses assumptions, detailed P&L, 5 years P&L, sensitivity & break-even."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-01.png",
+    "number": "03",
+    "title": "Menu<br />Development",
+    "short_description": "Reflect your concept in your recipes while meeting your financial goals and customer satisfaction.",
+    "long_description": {
+      "objective" : "To reflect your concept in your recipes while meeting your financial goals and customer satisfaction.",
+      "scope": "Menu structure. <br />Raw materials & approved brands. <br />Packaging. <br />Kitchen staff training. <br />Preparation & plate presentation manual. <br />Menu application process.",
+      "methodology": "Defining and approving the menu categories. (starters, salads…)<br />Preparing needed raw material items for the tasting session. <br />Tasting: presenting different options and adjusting as needed. <br />Approving on the final items after several tastings. <br />Costing approved items and suggest selling prices with benchmarks. <br />Choosing key items for the shooting and finalize it. <br />Implementation: training on preparation andline execution. <br />Providing prep and line manuals.",
+      "deliverables": "Menu Engineering. <br />Complete recipes with trained staff. <br />Preparation & Line manuals. <br />Approved Brand List. (raw materials)"
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-04.png",
+    "number": "04",
+    "title": "Pre-opening project<br />management",
+    "short_description": "Plan, organize and control your resources to have your restaurant operating on time.",
+    "long_description": {
+      "objective" : "To open the restaurant on time with the required specifications as planned while meeting the budget set.",
+      "scope": "Budget. <br />Planning. <br />Facility, equipment layout, furniture and fixture. <br />Branding | printings and packaging. <br />Menu & raw materials. <br />Hardware | Software. <br />Suppliers. <br />Employees: recruitment and training.",
+      "methodology": "Prepare the pre-opening budget & approve on the interior design. <br />Complete the menu development. <br />Identify the restaurant layout, furniture and fixture. <br />Identify the kitchen equipment and layout. <br />Choose and implement the POS software. <br />Finalize related marketing and branding materials. <br />Finalize suppliers deals. <br />Recruit and train people.",
+      "deliverables": "Ready to operate restaurant."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-03.png",
+    "number": "05",
+    "title": "Finance<br />Management",
+    "short_description": "Ensure accuracy of financial reports and analysis leading to sound business decision making. Financial reports: feasibility studies, income statements...",
+    "long_description": {
+      "objective" : "To ensure accuracy of financial reports and analysis leading to sound business decision making.",
+      "scope": "Budget. <br />Planning. <br />Facility , equipment layout, furniture and fixture. <br />Branding | printings and packaging. <br />Menu & raw materials. <br />Hardware | Software. <br />Suppliers. <br />Employees: recruitment and training.",
+      "methodology": "Setting up the finance department structure, objectives, operating system and techniques.",
+      "deliverables": "High visibility on financial performance and a well controlled and closed work cycle. <br />Feasibility study and pre-opening expenses for new projects. <br />Monthly P&L statement and other financial indicators. <br />Yearly budget and QBR. (quarterly budget reviews)"
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-01.png",
+    "number": "06",
+    "title": "Supply Chain<br />Management",
+    "short_description": "Build a competitive infrastructure, source, control your purchases, warehousing & logistics, synchronize supply with demand and measure performance...",
+    "long_description": {
+      "objective" : "To create a net value, build a competitive infrastructure, control logistics, synchronize supply with demand and measure performance globally.",
+      "scope": "Sources, Procurement, Warehouse, Production and Logistics.",
+      "methodology": "Assessment of products to identify criticality level. <br />Assessment of current spend to identify products that consist 80% of value purchased (operating company).<br />Secure agreements for critical products to secure costs and availability. <br />Implementation of policies, procedures and processes. <br />Continuous research to source alternatives for critical products. <br />Identify opportunities to achieve cost saving through strategic sourcing. <br />Organizing the warehouse, setting par levels and ordering procedures, implement ECOSIMA in big operations. <br />Centralize production, setup schedules and deliveries. <br />Coordinate logistics processes. (internal and external)",
+      "deliverables": "Complete supply chain management processes. <br />Optimized Cost. <br />Continuous availability of approved products. <br />Customer satisfaction."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-04.png",
+    "number": "07",
+    "title": "Human Resources<br />Management",
+    "short_description": "Implement an effective system with clear policies and procedures for manpower planning, recruitment, training and development, performance management...",
+    "long_description": {
+      "objective" : "To create an effective system with clear policies and procedures for manpower planning, recruitment, training and development, performance management and remuneration of employees in order to achieve the company’s goals and maintain a positive work environment.",
+      "scope": "Personnel aspect: system related to recruitment, planning and training of people. <br />Policies: employment, attendance & leave, benefits, performance management. <br />Pay scale and labor cost. <br />Performance management system. <br />Work Methodology. <br />Reviewing the company’s HR status. <br />Developing policies, procedures and processes related to personnel management. <br />Reviewing company’s structure and developing KPAs, job descriptions and KPIs accordingly. <br />Developing a grading system. <br />Developing a training and development system.",
+      "methodology": "",
+      "deliverables": "Policies: employment, attendance & leave, performance review… Processes: recruitment, training, payment, promotion, termination. <br />Grading System. <br />Performance Management System. <br />KPAs, Job Descriptions and KPIS. <br />Training Programs."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-02.png",
+    "number": "08",
+    "title": "Quality<br />Control",
+    "short_description": "Develop your systems and manuals to have clear standards in all factors related to delivering quality, service, value and cleanliness to your guests.",
+    "long_description": {
+      "objective" : "To evaluate your Restaurant performance compared to standards set and recommend necessary action plan.",
+      "scope": "Operations standards: operations guidelines, service, food and beverage recipes, …<br />Restaurant appearance. <br />Restaurant set up. <br />Food quality: plate presentation, items shelf life, food temperature. <br />Food Safety: hygiene audit. <br />Equipment status: cleanliness, technical status …",
+      "methodology": "Developing the SOPs. (Standard Operating Procedures) <br />Developing manuals and guidelines. <br />Developing a scorecard. <br />(BPA: Best Practices Assessment)",
+      "deliverables": "Standard system of operations. <br />Scorecard reported frequently to identify performance score of each facility. Function and individual."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-03.png",
+    "number": "09",
+    "title": "Franchise Program<br />Development",
+    "short_description": "Develop your franchise program through well structured systems that starts from your concept bible to franchise pricing and agreement.",
+    "long_description": {
+      "objective" : "To develop a franchise system that will help your company expand while maintaining brand image and quality.",
+      "scope": "Franchise criteria. <br />Pricing. <br />MOU. <br />Franchise agreement. <br />Branding. <br />Locations Architecture. <br />Operations systems and manuals.",
+      "methodology": "Developing all systems and manuals: F&B, training, equipment...",
+      "deliverables": "Franchise system including: <br />Letter of response. <br />Criteria. <br />Franchise Pricing: Master Franchise, single unit. (by type) <br />Memorandum of understanding. (MOU) <br />Franchise Agreement. <br />Manuals: F&B, Training, Operations, Equipment, POS. <br />Brand Guidelines."
+    }
+  },
+  {
+    "icon": "wp-content/themes/iManage/images/icons/icon-01.png",
+    "number": "10",
+    "title": "Team<br />Training",
+    "short_description": "Continuous people development is essential to enhance your internal processes and increase customer satisfaction.",
+    "long_description": {
+      "objective" : "To develop your people competencies, enhance your internal processes and increase customer›s satisfaction.",
+      "scope": "Effective Management. (HODs & Managers) Cost Control. <br />Procurement, Warehousing & Logistics. <br />Food Safety.",
+      "methodology": "Conducting a customized workshop. <br />Setting a follow up plan on implementation.",
+      "deliverables": "Results oriented people."
+    }
+  }
+]

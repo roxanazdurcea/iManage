@@ -25,9 +25,9 @@ class WonderPlugin_Gridgallery_View {
 		?>
 		<ul class="wonderplugin-feature-list">
 			<li>Use on commercial websites</li>
-			<li>Remove the wonderplugin.com watermark</li>
+<!--			<li>Remove the wonderplugin.com watermark</li>-->
 			<li>Priority techincal support</li>
-			<li><a href="http://www.wonderplugin.com/order/?product=gridgallery" target="_blank">Upgrade to Commercial Version</a></li>
+<!--			<li><a href="http://www.wonderplugin.com/order/?product=gridgallery" target="_blank">Upgrade to Commercial Version</a></li>-->
 		</ul>
 		<?php
 	}
@@ -82,7 +82,7 @@ class WonderPlugin_Gridgallery_View {
 	
 	function show_contact() {
 		?>
-		<p>Technical support is available for Commercial Version users at support@wonderplugin.com. Please include your license information, WordPress version, link to your gallery, all related error messages in your email.</p>
+<!--		<p>Technical support is available for Commercial Version users at support@wonderplugin.com. Please include your license information, WordPress version, link to your gallery, all related error messages in your email.</p>-->
 		<?php
 	}
 	
